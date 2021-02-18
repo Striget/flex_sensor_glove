@@ -1,7 +1,7 @@
 // Flex sensor glove -project
 // Kajaani University of Applied Sciences
 // Miika Laeslehto
-// KKT18S
+// KKT19S
 
 #include <Servo.h>  // Servo library
 Servo thumb;        // Thumb finger servo
